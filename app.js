@@ -77,8 +77,9 @@ function ShoppingListCheckOffService() {
       quantity: "5"
     },
     {
-      name: "Coffee",
-      quantity: "24"
+      name: "Bread",
+      quantity: "18"
+    }
   ];
 var items2 = [];
 
